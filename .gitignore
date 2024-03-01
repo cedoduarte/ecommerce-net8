@@ -13,11 +13,6 @@
 **/NuGet.config
 **/nuget.lock.json
 
-# User secrets
-**/appsettings.Development.json
-**/appsettings.Production.json
-**/appsettings.json
-
 # Test results and coverage
 **/TestResults/
 **/coverage/
@@ -38,8 +33,3 @@
 # Specific file types
 *.dbmdl
 *.dbml
-
-# Ignore additional files as needed
-# Add custom patterns here
-
-# Lines starting with # are comments
