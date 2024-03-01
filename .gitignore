@@ -1,0 +1,45 @@
+# Generated files
+**/bin/
+**/obj/
+**/bin/Debug/
+**/bin/Release/
+**/artifacts/
+
+# IDE specific files
+**/.vs/
+**/.vscode/
+
+# Package manager lock files
+**/NuGet.config
+**/nuget.lock.json
+
+# User secrets
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/appsettings.json
+
+# Test results and coverage
+**/TestResults/
+**/coverage/
+
+# Local development settings
+**/launchSettings.json
+
+# Documentation generation
+**/doc/
+
+# Temporary files
+*.suo
+*.user
+
+# Ignore global assets
+**/wwwroot/node_modules/
+
+# Specific file types
+*.dbmdl
+*.dbml
+
+# Ignore additional files as needed
+# Add custom patterns here
+
+# Lines starting with # are comments
